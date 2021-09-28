@@ -1,6 +1,6 @@
 #Define the Function password() with if and else statements
 def password(p):
-    if p == "knights19":
+    if p == "Knights19":
         return "ACCESS GRANTED"
 
     else:
@@ -10,4 +10,4 @@ def password(p):
 print (password("sakljdf;kgj;jfb"))
 
 #Print the function with the correct password
-print (password("knights19"))
+print (password("Knights19"))
